@@ -82,7 +82,7 @@ namespace scrman
 		defdata::pessoa_t p;
 
 		std::cin.clear();
-		std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); //C++
+		std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 
 		std::cout << "Insira Nome: ";
 		std::cin.getline(p.nome, sizeof(p.nome));
