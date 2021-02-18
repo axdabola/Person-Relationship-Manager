@@ -1,5 +1,5 @@
 # Person-Relationship-Manager
-C++ Console App, demonstrating use of vectors in a similar way of Collection&lt;T> in C#. 
+C++ Console App, demonstrating use of vectors for data storage. 
 <br> Lang: pt-pt + en-us
 
 # Files:
